@@ -135,3 +135,6 @@ ui-tests/playwright-report
 .pnp.*
 ui-tests/.yarn/*
 ui-tests/.pnp.*
+data/transacciones_evaluación.csv
+data/transacciones_exitosas.csv
+data/transacciones_fallidas.csv
