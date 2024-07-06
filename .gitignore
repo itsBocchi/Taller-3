@@ -138,3 +138,8 @@ ui-tests/.pnp.*
 data/transacciones_evaluación.csv
 data/transacciones_exitosas.csv
 data/transacciones_fallidas.csv
+clases/Ciencia de Datos_Unidad_4.1_Regresión_Clasificación_Árboles.ipynb
+clases/Ciencia de Datos_Unidad_4.2_Modelos_de_Clasificación.ipynb
+clases/Ciencia de Datos_Unidad_4.3_Redes_Neuronales_Clasificación_Regresión.ipynb
+clases/Ciencia de Datos_Unidad_5_Exp_Series_de_Tiempo.ipynb
+clases/Ciencia de Datos_Unidad_6_Clasificación_Sensible_Costo.ipynb
